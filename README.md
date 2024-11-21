@@ -11,6 +11,6 @@ make it so that I didn't have "magical" tools and my dispoal and that I fully un
 creating with this project.
 
 Also, I'm using C++. So in the "O(case)" it should at least be faster than if I had done it using
-Python 😎.
+Python. 😎
 
 🛠️***More details to come with further development***🛠️
